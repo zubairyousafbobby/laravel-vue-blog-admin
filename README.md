@@ -10,3 +10,8 @@ php artisan db:seed --class=AdminUserSeeder
 user: admin@gmail.com
 
 password: 12345678
+
+Note:
+MySQl Has been used.
+
+Do the setting in .env file.
